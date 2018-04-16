@@ -1,0 +1,2 @@
+# nitro-bot
+Discord bot
